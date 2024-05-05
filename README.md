@@ -1,6 +1,6 @@
 # ExpNo : 10 Implementation of Classical Planning Algorithm
-## DEVELOPED BY : MOHAMED ATHIL B
-## REG NO : 212222230081
+## DEVELOPED BY : MOHAMED ASIL M
+## REG NO : 212222230080
 ## AIM :
 To Implementation of Classical Planning Algorithm
 ## Algorithm :
